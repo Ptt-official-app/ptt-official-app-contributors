@@ -9,7 +9,17 @@
 
 ### Ptt-official-app/Ptt-Android
 
+* [ininmm](https://github.com/ininmm)
+* [kenhuang1120](https://github.com/kenhuang1120)
+* [Aidan79225](https://github.com/Aidan79225)
+* [ken-yk-huang](https://github.com/ken-yk-huang)
+* [Ten-Wang](https://github.com/Ten-Wang)
+* [yaoandy107](https://github.com/yaoandy107)
+* [TakumaLee](https://github.com/TakumaLee)
+
 ### Ptt-official-app/Ptt-iOS
+
+
 
 ### Ptt-official-app/demo-pttbbs
 
