@@ -19,7 +19,11 @@
 
 ### Ptt-official-app/Ptt-iOS
 
-
+* [denkeni](https://github.com/denkeni)
+* [scsonic](https://github.com/scsonic)
+* [JackySONE](https://github.com/JackySONE)
+* [marcussfu](https://github.com/marcussfu)
+* [xxi511](https://github.com/xxi511)
 
 ### Ptt-official-app/demo-pttbbs
 
